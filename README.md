@@ -4,7 +4,7 @@
 
 <!-- Ganti USERNAME dengan username GitHub kamu di SEMUA link di bawah -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=220&section=header&text=Halo,%20Saya%20USERNAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20JavaScript%2FTypeScript&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=220&section=header&text=Halo,%20Saya%20DavidTimoteus&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20JavaScript%2FTypeScript&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -42,14 +42,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8be9fd&icon_color=ff79c6&text_color=f8f8f2&bg_color=1a1b27"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=8be9fd&text_color=f8f8f2&bg_color=1a1b27&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?DavidTimoteus=DavidTimoteus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8be9fd&icon_color=ff79c6&text_color=f8f8f2&bg_color=1a1b27"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?DavidTimoteus=DavidTimoteus&layout=compact&theme=tokyonight&hide_border=true&title_color=8be9fd&text_color=f8f8f2&bg_color=1a1b27&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&stroke=8be9fd&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidTimoteus&theme=tokyonight&hide_border=true&background=1a1b27&stroke=8be9fd&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd" />
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?DavidTimoteus=DavidTimoteus&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -87,8 +87,8 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/DavidTimoteus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/DavidTimoteus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
