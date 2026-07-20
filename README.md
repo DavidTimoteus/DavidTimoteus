@@ -66,15 +66,9 @@
 ## 💡 Progress Keahlian
 
 <div align="center">
-
-| Skill | Level |
-|---|---|
-| **JavaScript** | ![](https://progress-bar.xyz/85/?title=&width=200&color=f7df1e&suffix=%25) |
-| **TypeScript** | ![](https://progress-bar.xyz/75/?title=&width=200&color=3178c6&suffix=%25) |
-| **Laravel (PHP)** | ![](https://progress-bar.xyz/85/?title=&width=200&color=ff2d20&suffix=%25) |
-| **HTML/CSS** | ![](https://progress-bar.xyz/90/?title=&width=200&color=e34f26&suffix=%25) |
-| **MySQL** | ![](https://progress-bar.xyz/70/?title=&width=200&color=00758f&suffix=%25) |
-
+  <h3>💻 Bahasa Pemrograman yang Digunakan (Real-time)</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTimoteus&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
 </div>
 
 *(Ubah angka persentase di URL `progress-bar.xyz/ANGKA` sesuai level kamu sendiri)*
