@@ -63,15 +63,10 @@
 
 <br/>
 
-## 💡 Progress Keahlian
+## 💡 Progress Keahlian (Realtime, dihitung dari semua repo)
 
-<div align="center">
-  <h3>💻 Bahasa Pemrograman yang Digunakan (Real-time)</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTimoteus&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
-</div>
-
-*(Ubah angka persentase di URL `progress-bar.xyz/ANGKA` sesuai level kamu sendiri)*
+<!--LANG-STATS-START-->
+<!--LANG-STATS-END-->
 
 <br/>
 
