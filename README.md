@@ -1,20 +1,96 @@
-# Halo! Saya [David Timoteus] 👋
-
 ![Header](img/github-header-banner.png)
 
-Saya seorang software developer yang senang membangun solusi digital yang bersih, efisien, dan berpusat pada pengguna. Saat ini saya sedang fokus mengeksplorasi teknologi baru dan membangun proyek-proyek *open-source*.
+<div align="center">
 
-### 🛠️ Tech Stack
-<!-- Silakan ganti atau tambahkan badge sesuai bahasa yang kamu kuasai -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-</p>
+<!-- Ganti USERNAME dengan username GitHub kamu di SEMUA link di bawah -->
 
-### 📊 Statistik Bahasa Pemrograman
-<!-- GANTI "USERNAME_KAMU" DENGAN USERNAME GITHUB ASLI KAMU -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=220&section=header&text=Halo,%20Saya%20USERNAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20JavaScript%2FTypeScript&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/DavidTimoteus">
+  <img src="https://komarev.com/ghpvc/?DavidTimoteus=DavidTimoteus&label=Profile%20Views&color=1e293b&style=flat" />
+</a>
+<a href="https://github.com/DavidTimoteus?tab=followers">
+  <img src="https://img.shields.io/github/followers/DavidTimoteus?label=Followers&style=flat&color=1e293b" />
+</a>
+
+</div>
+
+<br/>
+
+## 🧑‍💻 Tentang Saya
+
+- 🔭 Sedang membangun aplikasi web modern dengan **Laravel** (backend) dan **JavaScript/TypeScript** (frontend)
+- 🌱 Terus memperdalam ekosistem **PHP** dan **Node.js**
+- 💬 Tanya saya soal **Laravel, REST API, dan pengembangan web full-stack**
+- 📫 Cara menghubungi saya: **email@example.com**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,laravel,php,html,css,mysql,git,vscode,figma" />
+
+</div>
+
+<br/>
+
+## 📊 Statistik GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8be9fd&icon_color=ff79c6&text_color=f8f8f2&bg_color=1a1b27"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=8be9fd&text_color=f8f8f2&bg_color=1a1b27&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&stroke=8be9fd&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd" />
+
+</div>
+
+<br/>
+
+## 📈 Aktivitas Kontribusi
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 💡 Progress Keahlian
+
+<div align="center">
+
+| Skill | Level |
+|---|---|
+| **JavaScript** | ![](https://progress-bar.xyz/85/?title=&width=200&color=f7df1e&suffix=%25) |
+| **TypeScript** | ![](https://progress-bar.xyz/75/?title=&width=200&color=3178c6&suffix=%25) |
+| **Laravel (PHP)** | ![](https://progress-bar.xyz/85/?title=&width=200&color=ff2d20&suffix=%25) |
+| **HTML/CSS** | ![](https://progress-bar.xyz/90/?title=&width=200&color=e34f26&suffix=%25) |
+| **MySQL** | ![](https://progress-bar.xyz/70/?title=&width=200&color=00758f&suffix=%25) |
+
+</div>
+
+*(Ubah angka persentase di URL `progress-bar.xyz/ANGKA` sesuai level kamu sendiri)*
+
+<br/>
+
+## 🤝 Terhubung Dengan Saya
+
+<div align="center">
+
+<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
