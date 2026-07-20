@@ -1,5 +1,7 @@
 # Halo! Saya [David Timoteus] 👋
 
+![Header](img/github-header-banner.png)
+
 Saya seorang software developer yang senang membangun solusi digital yang bersih, efisien, dan berpusat pada pengguna. Saat ini saya sedang fokus mengeksplorasi teknologi baru dan membangun proyek-proyek *open-source*.
 
 ### 🛠️ Tech Stack
