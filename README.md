@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🧑‍💻 Tentang Sayaas
+## 🧑‍💻 Tentang Saya
 
 - 🔭 Sedang membangun aplikasi web modern dengan **Laravel** (backend) dan **JavaScript/TypeScript** (frontend)
 - 🌱 Terus memperdalam ekosistem **PHP** dan **Node.js**
