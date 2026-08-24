@@ -1,4 +1,4 @@
-name: Update Language Stats
+name: Update README Stats
 
 on:
   schedule:
@@ -35,4 +35,27 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: update language stats otomatis"
+          git pull --rebase
           git push
+
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake ke branch output
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
