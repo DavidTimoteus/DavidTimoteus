@@ -71,16 +71,16 @@
 
 | Skill | Level |
 |---|---|
-| **HTML** | ![](https://progress-bar.xyz/28/?title=&width=200&color=e34f26&suffix=%25) |
-| **Blade** | ![](https://progress-bar.xyz/24/?title=&width=200&color=ff2d20&suffix=%25) |
-| **PHP** | ![](https://progress-bar.xyz/19/?title=&width=200&color=777bb4&suffix=%25) |
-| **CSS** | ![](https://progress-bar.xyz/14/?title=&width=200&color=1572b6&suffix=%25) |
-| **JavaScript** | ![](https://progress-bar.xyz/10/?title=&width=200&color=f7df1e&suffix=%25) |
+| **HTML** | ![](https://progress-bar.xyz/33/?title=&width=200&color=e34f26&suffix=%25) |
+| **Blade** | ![](https://progress-bar.xyz/22/?title=&width=200&color=ff2d20&suffix=%25) |
+| **PHP** | ![](https://progress-bar.xyz/17/?title=&width=200&color=777bb4&suffix=%25) |
+| **CSS** | ![](https://progress-bar.xyz/12/?title=&width=200&color=1572b6&suffix=%25) |
+| **JavaScript** | ![](https://progress-bar.xyz/11/?title=&width=200&color=f7df1e&suffix=%25) |
 | **SCSS** | ![](https://progress-bar.xyz/2/?title=&width=200&color=94a3b8&suffix=%25) |
 | **C++** | ![](https://progress-bar.xyz/1/?title=&width=200&color=94a3b8&suffix=%25) |
 | **CMake** | ![](https://progress-bar.xyz/1/?title=&width=200&color=94a3b8&suffix=%25) |
 
-*Terakhir diperbarui otomatis: 2026-08-23 — dihitung dari seluruh repository publik.*
+*Terakhir diperbarui otomatis: 2026-08-24 — dihitung dari seluruh repository publik.*
 
 </div>
 
