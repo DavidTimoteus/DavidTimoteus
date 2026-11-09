@@ -52,7 +52,7 @@
 </tr>
 </table>
 
-- 📫 **Kontak Cepat**: Hubungi saya lewat badge di bagian [Terhubung Dengan Saya](#-terhubung-dengan-saya) di bawah.
+- 📫 **Kontak Cepat**: Hubungi saya lewat bagian [Terhubung Dengan Saya](#-terhubung-dengan-saya) di bawah.
 
 ---
 
@@ -61,10 +61,6 @@
 <div align="center">
 
 <img src="img/tech-stack.svg" alt="Tech Stack & Ekosistem Showcase" width="100%" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=laravel,php,ts,js,nodejs,python,flutter,dart,tailwind,mysql,git,github,vscode,figma,postman&theme=dark" alt="Tech Icons" />
 
 </div>
 
@@ -164,25 +160,50 @@
 
 <div align="center">
 
-<img src="img/connect-card.svg" alt="Mari Terhubung" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%F0%9F%92%AC+Punya+ide+proyek+atau+ingin+berdiskusi%3F;%F0%9F%A4%9D+Mari+terhubung+dan+berkolaborasi+bersama!;%F0%9F%93%AB+Hubungi+saya+melalui+kontak+di+bawah+ini%3A" alt="Mari Terhubung" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/DavidTimoteus" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/DavidTimoteus" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:kconkdeveloper@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/DavidTimoteus">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<table align="center" style="border: none; background: transparent;">
+  <tr align="center">
+    <td width="25%" align="center">
+      <a href="https://linkedin.com/in/DavidTimoteus" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+        <br/>
+        <b>LinkedIn</b>
+        <br/>
+        <sub>/in/DavidTimoteus</sub>
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="mailto:kconkdeveloper@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
+        <br/>
+        <b>Email</b>
+        <br/>
+        <sub>kconkdeveloper@gmail.com</sub>
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://instagram.com/DavidTimoteus" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
+        <br/>
+        <b>Instagram</b>
+        <br/>
+        <sub>@DavidTimoteus</sub>
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/DavidTimoteus">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br/>
+        <b>GitHub</b>
+        <br/>
+        <sub>@DavidTimoteus</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
