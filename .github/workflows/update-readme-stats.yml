@@ -29,12 +29,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-language-stats.js
 
-      - name: Commit perubahan README
+      - name: Commit perubahan README & Assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update language stats otomatis"
+          git add README.md img/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update language stats & progress svg otomatis"
           git pull --rebase
           git push
 
