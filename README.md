@@ -32,7 +32,7 @@
 ---
 
 ## 🧑‍💻 Tentang Saya
-
+https://davidtimoteus.github.io/Portofolioku/
 <table>
 <tr>
 <td width="62%" valign="top">
