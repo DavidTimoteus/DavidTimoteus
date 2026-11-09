@@ -53,7 +53,7 @@
         <text x="71" y="56" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">COMMITS</text>
 
         <!-- Score -->
-        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">248+</text>
+        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">249+</text>
 
         <!-- Badge Rank Pill -->
         <rect x="37" y="82" width="68" height="15" rx="4" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" />
@@ -73,7 +73,7 @@
         <text x="71" y="56" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">REPOSITORIES</text>
 
         <!-- Score -->
-        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">19 Repos</text>
+        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">13 Repos</text>
 
         <!-- Badge Rank Pill -->
         <rect x="37" y="82" width="68" height="15" rx="4" fill="#38BDF8" fill-opacity="0.2" stroke="#38BDF8" stroke-width="0.8" />
@@ -93,7 +93,7 @@
         <text x="71" y="56" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">CONTRIBUTIONS</text>
 
         <!-- Score -->
-        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">256</text>
+        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">257</text>
 
         <!-- Badge Rank Pill -->
         <rect x="37" y="82" width="68" height="15" rx="4" fill="#10B981" fill-opacity="0.2" stroke="#10B981" stroke-width="0.8" />
