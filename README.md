@@ -128,16 +128,16 @@
 
 | Skill | Level |
 |---|---|
-| **JavaScript** | ![](https://progress-bar.xyz/31/?title=&width=200&color=f7df1e&suffix=%25) |
-| **HTML** | ![](https://progress-bar.xyz/24/?title=&width=200&color=e34f26&suffix=%25) |
-| **Blade** | ![](https://progress-bar.xyz/13/?title=&width=200&color=ff2d20&suffix=%25) |
-| **CSS** | ![](https://progress-bar.xyz/12/?title=&width=200&color=1572b6&suffix=%25) |
-| **PHP** | ![](https://progress-bar.xyz/10/?title=&width=200&color=777bb4&suffix=%25) |
+| **JavaScript** | ![](https://progress-bar.xyz/34/?title=&width=200&color=f7df1e&suffix=%25) |
+| **HTML** | ![](https://progress-bar.xyz/22/?title=&width=200&color=e34f26&suffix=%25) |
+| **CSS** | ![](https://progress-bar.xyz/13/?title=&width=200&color=1572b6&suffix=%25) |
+| **Blade** | ![](https://progress-bar.xyz/12/?title=&width=200&color=ff2d20&suffix=%25) |
+| **PHP** | ![](https://progress-bar.xyz/9/?title=&width=200&color=777bb4&suffix=%25) |
 | **Python** | ![](https://progress-bar.xyz/5/?title=&width=200&color=3776ab&suffix=%25) |
 | **TypeScript** | ![](https://progress-bar.xyz/2/?title=&width=200&color=3178c6&suffix=%25) |
 | **C++** | ![](https://progress-bar.xyz/1/?title=&width=200&color=94a3b8&suffix=%25) |
 
-*Terakhir diperbarui otomatis: 2026-11-08 — dihitung dari seluruh repository publik.*
+*Terakhir diperbarui otomatis: 2026-11-09 — dihitung dari seluruh repository publik.*
 
 </div>
 
