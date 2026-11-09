@@ -1,0 +1,168 @@
+<svg width="840" height="300" viewBox="0 0 840 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="act-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120" />
+      <stop offset="60%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#151D33" />
+    </linearGradient>
+
+    <linearGradient id="act-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.6" />
+    </linearGradient>
+
+    <linearGradient id="area-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.4" />
+      <stop offset="60%" stop-color="#818CF8" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.0" />
+    </linearGradient>
+
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes pulseCard {
+      0%, 100% { stroke-opacity: 0.5; }
+      50% { stroke-opacity: 0.9; }
+    }
+    .card-border {
+      animation: pulseCard 4s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="1" y="1" width="838" height="298" rx="16" fill="url(#act-bg)" stroke="url(#act-border)" stroke-width="1.5" class="card-border" />
+
+  <!-- Header -->
+  <g transform="translate(30, 22)">
+    <rect width="36" height="36" rx="9" fill="#1E293B" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.6" />
+    <text x="18" y="24" font-size="18" text-anchor="middle">📈</text>
+    <text x="48" y="18" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">Aktivitas &amp; Tren Kontribusi GitHub</text>
+    <text x="48" y="34" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Total 256 kontribusi tahun ini • Terpantau langsung via GitHub GraphQL</text>
+  </g>
+
+  <!-- Badge Total -->
+  <g transform="translate(665, 24)">
+    <rect width="145" height="30" rx="8" fill="#1E293B" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.4" />
+    <text x="72" y="19" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="700" text-anchor="middle">🔥 256 Contributions</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="30" y1="72" x2="810" y2="72" stroke="#334155" stroke-width="1" stroke-opacity="0.4" />
+
+  <!-- Area Fill -->
+  <path d="M 55 255 C 88.18181818181819 255, 88.18181818181819 255, 121.36363636363636 255 C 154.54545454545453 255, 154.54545454545453 255, 187.72727272727272 255 C 220.90909090909088 255, 220.90909090909088 255, 254.09090909090907 255 C 287.27272727272725 255, 287.27272727272725 255, 320.45454545454544 255 C 353.6363636363636 255, 353.6363636363636 255, 386.8181818181818 255 C 420 255, 420 255, 453.18181818181813 255 C 486.3636363636363 255, 486.3636363636363 240.7843137254902, 519.5454545454545 240.7843137254902 C 552.7272727272727 240.7843137254902, 552.7272727272727 127.05882352941177, 585.9090909090909 127.05882352941177 C 619.0909090909091 127.05882352941177, 619.0909090909091 255, 652.2727272727274 255 C 685.4545454545455 255, 685.4545454545455 178.23529411764707, 718.6363636363636 178.23529411764707 C 751.8181818181818 178.23529411764707, 751.8181818181818 110, 785 110 L 785 255 L 55 255 Z" fill="url(#area-grad)" />
+
+  <!-- Smooth Stroke Line -->
+  <path d="M 55 255 C 88.18181818181819 255, 88.18181818181819 255, 121.36363636363636 255 C 154.54545454545453 255, 154.54545454545453 255, 187.72727272727272 255 C 220.90909090909088 255, 220.90909090909088 255, 254.09090909090907 255 C 287.27272727272725 255, 287.27272727272725 255, 320.45454545454544 255 C 353.6363636363636 255, 353.6363636363636 255, 386.8181818181818 255 C 420 255, 420 255, 453.18181818181813 255 C 486.3636363636363 255, 486.3636363636363 240.7843137254902, 519.5454545454545 240.7843137254902 C 552.7272727272727 240.7843137254902, 552.7272727272727 127.05882352941177, 585.9090909090909 127.05882352941177 C 619.0909090909091 127.05882352941177, 619.0909090909091 255, 652.2727272727274 255 C 685.4545454545455 255, 685.4545454545455 178.23529411764707, 718.6363636363636 178.23529411764707 C 751.8181818181818 178.23529411764707, 751.8181818181818 110, 785 110" fill="none" stroke="url(#line-grad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Grid Base Line -->
+  <line x1="55" y1="255" x2="785" y2="255" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" opacity="0.6" />
+
+  <!-- Dots & Values -->
+  
+      <g>
+        <circle cx="55" cy="255" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="55" cy="255" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.20s" repeatCount="indefinite" />
+        </circle>
+        
+      </g>
+      <g>
+        <circle cx="121.36363636363636" cy="255" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="121.36363636363636" cy="255" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.28s" repeatCount="indefinite" />
+        </circle>
+        
+      </g>
+      <g>
+        <circle cx="187.72727272727272" cy="255" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="187.72727272727272" cy="255" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.36s" repeatCount="indefinite" />
+        </circle>
+        
+      </g>
+      <g>
+        <circle cx="254.09090909090907" cy="255" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="254.09090909090907" cy="255" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.44s" repeatCount="indefinite" />
+        </circle>
+        
+      </g>
+      <g>
+        <circle cx="320.45454545454544" cy="255" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="320.45454545454544" cy="255" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.52s" repeatCount="indefinite" />
+        </circle>
+        
+      </g>
+      <g>
+        <circle cx="386.8181818181818" cy="255" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="386.8181818181818" cy="255" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.60s" repeatCount="indefinite" />
+        </circle>
+        
+      </g>
+      <g>
+        <circle cx="453.18181818181813" cy="255" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="453.18181818181813" cy="255" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.68s" repeatCount="indefinite" />
+        </circle>
+        
+      </g>
+      <g>
+        <circle cx="519.5454545454545" cy="240.7843137254902" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="519.5454545454545" cy="240.7843137254902" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.76s" repeatCount="indefinite" />
+        </circle>
+        <text x="519.5454545454545" y="230.7843137254902" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="middle">10</text>
+      </g>
+      <g>
+        <circle cx="585.9090909090909" cy="127.05882352941177" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="585.9090909090909" cy="127.05882352941177" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.84s" repeatCount="indefinite" />
+        </circle>
+        <text x="585.9090909090909" y="117.05882352941177" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="middle">90</text>
+      </g>
+      <g>
+        <circle cx="652.2727272727274" cy="255" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="652.2727272727274" cy="255" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.92s" repeatCount="indefinite" />
+        </circle>
+        
+      </g>
+      <g>
+        <circle cx="718.6363636363636" cy="178.23529411764707" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="718.6363636363636" cy="178.23529411764707" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="1.00s" repeatCount="indefinite" />
+        </circle>
+        <text x="718.6363636363636" y="168.23529411764707" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="middle">54</text>
+      </g>
+      <g>
+        <circle cx="785" cy="110" r="6" fill="#38BDF8" fill-opacity="0.3" />
+        <circle cx="785" cy="110" r="3.5" fill="#38BDF8" stroke="#0B1120" stroke-width="1.5">
+          <animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="1.08s" repeatCount="indefinite" />
+        </circle>
+        <text x="785" y="100" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="middle">102</text>
+      </g>
+
+  <!-- Months Labels -->
+  
+      <text x="55" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Dec</text>
+      <text x="121.36363636363636" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Jan</text>
+      <text x="187.72727272727272" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Feb</text>
+      <text x="254.09090909090907" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Mar</text>
+      <text x="320.45454545454544" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Apr</text>
+      <text x="386.8181818181818" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">May</text>
+      <text x="453.18181818181813" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Jun</text>
+      <text x="519.5454545454545" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Jul</text>
+      <text x="585.9090909090909" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Aug</text>
+      <text x="652.2727272727274" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Sep</text>
+      <text x="718.6363636363636" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Oct</text>
+      <text x="785" y="277" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11" text-anchor="middle">Nov</text>
+</svg>

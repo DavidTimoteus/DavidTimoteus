@@ -1,0 +1,142 @@
+<svg width="840" height="210" viewBox="0 0 840 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="trophy-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120" />
+      <stop offset="60%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#151D33" />
+    </linearGradient>
+
+    <linearGradient id="trophy-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.6" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes pulseBorder {
+      0%, 100% { stroke-opacity: 0.5; }
+      50% { stroke-opacity: 0.9; }
+    }
+    .card-border {
+      animation: pulseBorder 4s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="1" y="1" width="838" height="208" rx="16" fill="url(#trophy-bg)" stroke="url(#trophy-border)" stroke-width="1.5" class="card-border" />
+
+  <!-- Header -->
+  <g transform="translate(30, 22)">
+    <rect width="36" height="36" rx="9" fill="#1E293B" stroke="#F59E0B" stroke-width="1.2" stroke-opacity="0.6" />
+    <text x="18" y="24" font-size="18" text-anchor="middle">🏆</text>
+    <text x="48" y="18" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">Trofi &amp; Pencapaian GitHub</text>
+    <text x="48" y="34" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Rangkuman reputasi, total kontribusi, dan konsistensi pengembangan</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="30" y1="68" x2="810" y2="68" stroke="#334155" stroke-width="1" stroke-opacity="0.4" />
+
+  <!-- Trophy Cards -->
+  
+      <!-- Trophy 1: Commits -->
+      <g transform="translate(30, 80)">
+        <!-- Card Background -->
+        <rect width="142" height="105" rx="12" fill="#131D33" stroke="#F59E0B" stroke-width="1.2" stroke-opacity="0.5" />
+        
+        <!-- Glowing Header Ring -->
+        <circle cx="71" cy="26" r="16" fill="#F59E0B" fill-opacity="0.15" />
+        <circle cx="71" cy="26" r="12" fill="#1E293B" stroke="#F59E0B" stroke-width="1" />
+        <text x="71" y="31" font-size="14" text-anchor="middle">⚡</text>
+
+        <!-- Title -->
+        <text x="71" y="56" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">COMMITS</text>
+
+        <!-- Score -->
+        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">248+</text>
+
+        <!-- Badge Rank Pill -->
+        <rect x="37" y="82" width="68" height="15" rx="4" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" />
+        <text x="71" y="93" fill="#F59E0B" font-family="-apple-system, sans-serif" font-size="8.5" font-weight="700" text-anchor="middle">S Rank</text>
+      </g>
+      <!-- Trophy 2: Repositories -->
+      <g transform="translate(188, 80)">
+        <!-- Card Background -->
+        <rect width="142" height="105" rx="12" fill="#131D33" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.5" />
+        
+        <!-- Glowing Header Ring -->
+        <circle cx="71" cy="26" r="16" fill="#38BDF8" fill-opacity="0.15" />
+        <circle cx="71" cy="26" r="12" fill="#1E293B" stroke="#38BDF8" stroke-width="1" />
+        <text x="71" y="31" font-size="14" text-anchor="middle">📦</text>
+
+        <!-- Title -->
+        <text x="71" y="56" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">REPOSITORIES</text>
+
+        <!-- Score -->
+        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">19 Repos</text>
+
+        <!-- Badge Rank Pill -->
+        <rect x="37" y="82" width="68" height="15" rx="4" fill="#38BDF8" fill-opacity="0.2" stroke="#38BDF8" stroke-width="0.8" />
+        <text x="71" y="93" fill="#38BDF8" font-family="-apple-system, sans-serif" font-size="8.5" font-weight="700" text-anchor="middle">A+ Rank</text>
+      </g>
+      <!-- Trophy 3: Contributions -->
+      <g transform="translate(346, 80)">
+        <!-- Card Background -->
+        <rect width="142" height="105" rx="12" fill="#131D33" stroke="#10B981" stroke-width="1.2" stroke-opacity="0.5" />
+        
+        <!-- Glowing Header Ring -->
+        <circle cx="71" cy="26" r="16" fill="#10B981" fill-opacity="0.15" />
+        <circle cx="71" cy="26" r="12" fill="#1E293B" stroke="#10B981" stroke-width="1" />
+        <text x="71" y="31" font-size="14" text-anchor="middle">🌟</text>
+
+        <!-- Title -->
+        <text x="71" y="56" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">CONTRIBUTIONS</text>
+
+        <!-- Score -->
+        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">256</text>
+
+        <!-- Badge Rank Pill -->
+        <rect x="37" y="82" width="68" height="15" rx="4" fill="#10B981" fill-opacity="0.2" stroke="#10B981" stroke-width="0.8" />
+        <text x="71" y="93" fill="#10B981" font-family="-apple-system, sans-serif" font-size="8.5" font-weight="700" text-anchor="middle">Gold</text>
+      </g>
+      <!-- Trophy 4: Pull Requests -->
+      <g transform="translate(504, 80)">
+        <!-- Card Background -->
+        <rect width="142" height="105" rx="12" fill="#131D33" stroke="#818CF8" stroke-width="1.2" stroke-opacity="0.5" />
+        
+        <!-- Glowing Header Ring -->
+        <circle cx="71" cy="26" r="16" fill="#818CF8" fill-opacity="0.15" />
+        <circle cx="71" cy="26" r="12" fill="#1E293B" stroke="#818CF8" stroke-width="1" />
+        <text x="71" y="31" font-size="14" text-anchor="middle">🔀</text>
+
+        <!-- Title -->
+        <text x="71" y="56" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">PULL REQUESTS</text>
+
+        <!-- Score -->
+        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">3 Merged</text>
+
+        <!-- Badge Rank Pill -->
+        <rect x="37" y="82" width="68" height="15" rx="4" fill="#818CF8" fill-opacity="0.2" stroke="#818CF8" stroke-width="0.8" />
+        <text x="71" y="93" fill="#818CF8" font-family="-apple-system, sans-serif" font-size="8.5" font-weight="700" text-anchor="middle">Achieved</text>
+      </g>
+      <!-- Trophy 5: Experience -->
+      <g transform="translate(662, 80)">
+        <!-- Card Background -->
+        <rect width="142" height="105" rx="12" fill="#131D33" stroke="#C084FC" stroke-width="1.2" stroke-opacity="0.5" />
+        
+        <!-- Glowing Header Ring -->
+        <circle cx="71" cy="26" r="16" fill="#C084FC" fill-opacity="0.15" />
+        <circle cx="71" cy="26" r="12" fill="#1E293B" stroke="#C084FC" stroke-width="1" />
+        <text x="71" y="31" font-size="14" text-anchor="middle">🛡️</text>
+
+        <!-- Title -->
+        <text x="71" y="56" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">EXPERIENCE</text>
+
+        <!-- Score -->
+        <text x="71" y="74" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="13" font-weight="700" text-anchor="middle">Since 2021</text>
+
+        <!-- Badge Rank Pill -->
+        <rect x="37" y="82" width="68" height="15" rx="4" fill="#C084FC" fill-opacity="0.2" stroke="#C084FC" stroke-width="0.8" />
+        <text x="71" y="93" fill="#C084FC" font-family="-apple-system, sans-serif" font-size="8.5" font-weight="700" text-anchor="middle">Veteran</text>
+      </g>
+</svg>

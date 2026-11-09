@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/github/stars/DavidTimoteus?affiliation=OWNER&label=Stars&style=flat-square&color=0B1120&logo=github&logoColor=FACC15" alt="Stars" />
 </a>
 <a href="https://github.com/DavidTimoteus?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-13+-0B1120?style=flat-square&logo=git&logoColor=38BDF8" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-19_Repos-0B1120?style=flat-square&logo=git&logoColor=38BDF8" alt="Repositories" />
 </a>
 
 </div>
@@ -56,35 +56,25 @@
 
 ---
 
-## 🎯 Progres & Roadmap Pengembangan Saat Ini
+## 🛠️ Tech Stack & Ekosistem
 
 <div align="center">
 
-<img src="img/milestones-progress.svg" alt="Project Milestones & Learning Roadmap" width="100%" />
+<img src="img/tech-stack.svg" alt="Tech Stack & Ekosistem Showcase" width="100%" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=laravel,php,ts,js,nodejs,python,flutter,dart,tailwind,mysql,git,github,vscode,figma,postman&theme=dark" alt="Tech Icons" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Ekosistem
+## 🎯 Progres & Roadmap Pengembangan Saat Ini
 
 <div align="center">
 
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=laravel,php,ts,js,nodejs,python,flutter,dart&theme=dark" alt="Languages & Frameworks" />
-
-<br/>
-
-**Frontend & Styling**
-
-<img src="https://skillicons.dev/icons?i=tailwind,html,css,scss,bootstrap&theme=dark" alt="Frontend & Styling" />
-
-<br/>
-
-**Database, Cloud & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,postman&theme=dark" alt="Database & Tools" />
+<img src="img/milestones-progress.svg" alt="Project Milestones & Learning Roadmap" width="100%" />
 
 </div>
 
@@ -121,12 +111,32 @@
 
 ---
 
-## 📊 Statistik & Aktivitas GitHub
+## 🏆 Trofi & Pencapaian GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidTimoteus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B1120&title_color=38BDF8&icon_color=C084FC&text_color=E2E8F0&border_radius=12" alt="Statistik GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTimoteus&layout=compact&hide_border=true&langs_count=8&bg_color=0B1120&title_color=38BDF8&text_color=E2E8F0&border_radius=12" alt="Bahasa terpopuler" />
+<img src="img/github-trophies.svg" alt="Trofi GitHub" width="100%" />
+
+</div>
+
+---
+
+## 📈 Aktivitas & Tren Kontribusi
+
+<div align="center">
+
+<img src="img/activity-graph.svg" alt="Grafik Aktivitas Kontribusi" width="100%" />
+
+</div>
+
+---
+
+## 📊 Statistik & Streak GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=DavidTimoteus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B1120&title_color=38BDF8&icon_color=C084FC&text_color=E2E8F0&border_radius=12" alt="Statistik GitHub" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DavidTimoteus&layout=compact&hide_border=true&langs_count=8&bg_color=0B1120&title_color=38BDF8&text_color=E2E8F0&border_radius=12" alt="Bahasa terpopuler" />
 
 <br/>
 
@@ -150,38 +160,28 @@
 
 ---
 
-## 📈 Aktivitas Kontribusi
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidTimoteus&theme=tokyo-night&hide_border=true&area=true&bg_color=0B1120&color=E2E8F0&line=38BDF8&point=C084FC&area_color=1E293B" width="100%" alt="Grafik aktivitas kontribusi"/>
-
-</div>
-
----
-
-## 🏆 Trofi GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DavidTimoteus&theme=discord&no-frame=true&row=1&column=6&margin-w=8" alt="Trofi GitHub"/>
-
-</div>
-
----
-
 ## 🤝 Terhubung Dengan Saya
 
 <div align="center">
 
+<img src="img/connect-card.svg" alt="Mari Terhubung" width="100%" />
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/DavidTimoteus" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;
 <a href="https://instagram.com/DavidTimoteus" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:kconkdeveloper@gmail.com">
-  <img src="https://img.shields.io/badge/detimotea@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/DavidTimoteus">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>

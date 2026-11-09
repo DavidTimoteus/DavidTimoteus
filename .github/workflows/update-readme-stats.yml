@@ -23,18 +23,20 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Hitung ulang statistik bahasa
+      - name: Hitung ulang statistik & generate visualisasi profil
         env:
           GH_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/update-language-stats.js
+        run: |
+          node scripts/update-language-stats.js
+          node scripts/generate-profile-visuals.js
 
       - name: Commit perubahan README & Assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md img/
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update language stats & progress svg otomatis"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update language stats & profile visuals svg otomatis"
           git pull --rebase
           git push
 

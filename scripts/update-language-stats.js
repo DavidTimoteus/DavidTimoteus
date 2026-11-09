@@ -6,9 +6,16 @@
 
 const fs = require("fs");
 const path = require("path");
+const { execSync } = require("child_process");
 
 const USERNAME = process.env.GH_USERNAME || "DavidTimoteus";
-const TOKEN = process.env.GITHUB_TOKEN;
+let TOKEN = process.env.GITHUB_TOKEN;
+
+if (!TOKEN) {
+  try {
+    TOKEN = execSync("gh auth token", { encoding: "utf8" }).trim();
+  } catch (e) {}
+}
 const README_PATH = path.join(__dirname, "..", "README.md");
 const SVG_OUTPUT_PATH = path.join(__dirname, "..", "img", "language-progress.svg");
 const START_MARKER = "<!--LANG-STATS-START-->";
