@@ -45,6 +45,16 @@ async function fetchGraphQL(query, variables = {}) {
   return json.data;
 }
 
+function escapeXml(unsafe) {
+  if (unsafe === undefined || unsafe === null) return "";
+  return String(unsafe)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
 // -------------------------------------------------------------
 // 1. GENERATOR TECH STACK (DESAIN PRESISI & SIMETRIS)
 // -------------------------------------------------------------
@@ -103,7 +113,7 @@ function generateTechStackSvg() {
     cat.items.forEach((item, rowIdx) => {
       const yPill = 50 + rowIdx * 45;
       rowsSvg += `
-        <!-- Item ${rowIdx + 1}: ${item.name} -->
+        <!-- Item ${rowIdx + 1}: ${escapeXml(item.name)} -->
         <g transform="translate(10, ${yPill})">
           <rect width="220" height="36" rx="8" fill="#111625" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
           
@@ -111,16 +121,16 @@ function generateTechStackSvg() {
           <circle cx="16" cy="18" r="4.5" fill="${item.color}" />
           
           <!-- Name -->
-          <text x="28" y="22" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">${item.name}</text>
+          <text x="28" y="22" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">${escapeXml(item.name)}</text>
           
           <!-- Level Tag -->
           <rect x="146" y="8" width="64" height="20" rx="5" fill="#182235" stroke="${item.color}" stroke-width="0.8" stroke-opacity="0.6" />
-          <text x="178" y="21.5" fill="${item.color}" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" font-weight="700" text-anchor="middle">${item.level}</text>
+          <text x="178" y="21.5" fill="${item.color}" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" font-weight="700" text-anchor="middle">${escapeXml(item.level)}</text>
         </g>`;
     });
 
     columnsSvg += `
-      <!-- Column ${colIdx + 1}: ${cat.title} -->
+      <!-- Column ${colIdx + 1}: ${escapeXml(cat.title)} -->
       <g transform="translate(${xPos}, ${headerHeight + 10})">
         <!-- Column Outer Panel -->
         <rect width="${colWidth}" height="280" rx="12" fill="#0B1120" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
@@ -128,7 +138,7 @@ function generateTechStackSvg() {
         <!-- Header -->
         <g transform="translate(12, 16)">
           <circle cx="8" cy="10" r="5" fill="${cat.iconColor}" />
-          <text x="20" y="14" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700">${cat.title}</text>
+          <text x="20" y="14" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700">${escapeXml(cat.title)}</text>
           <line x1="0" y1="24" x2="${colWidth - 24}" y2="24" stroke="rgba(255,255,255,0.07)" stroke-width="1" />
         </g>
 
