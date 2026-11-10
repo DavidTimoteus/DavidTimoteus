@@ -24,12 +24,12 @@
         <stop offset="100%" stop-color="#EA580C" />
       </linearGradient>
       <linearGradient id="grad-lang-2" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#1572B6" />
-        <stop offset="100%" stop-color="#0284C7" />
-      </linearGradient>
-      <linearGradient id="grad-lang-3" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#FF2D20" />
         <stop offset="100%" stop-color="#DC2626" />
+      </linearGradient>
+      <linearGradient id="grad-lang-3" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#1572B6" />
+        <stop offset="100%" stop-color="#0284C7" />
       </linearGradient>
       <linearGradient id="grad-lang-4" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#777BB4" />
@@ -91,17 +91,17 @@
         <rect x="180" y="5" width="460" height="18" rx="9" fill="#131D33" stroke="#233554" stroke-width="1" />
 
         <!-- Bar Fill with Animation -->
-        <rect x="180" y="5" width="147" height="18" rx="9" fill="url(#grad-lang-0)">
-          <animate attributeName="width" from="0" to="147" dur="1.2s" begin="0.10s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
+        <rect x="180" y="5" width="138" height="18" rx="9" fill="url(#grad-lang-0)">
+          <animate attributeName="width" from="0" to="138" dur="1.2s" begin="0.10s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
         </rect>
 
         <!-- Shimmer Highlight Effect -->
-        <rect x="180" y="5" width="147" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
+        <rect x="180" y="5" width="138" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
 
         <!-- Percentage Badge -->
         <g transform="translate(658, 4)">
           <rect width="64" height="20" rx="6" fill="#131D33" stroke="#F7DF1E" stroke-width="1" stroke-opacity="0.6" />
-          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">32%</text>
+          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">30%</text>
         </g>
       </g>
       <!-- Row 2: HTML -->
@@ -117,47 +117,21 @@
         <rect x="180" y="5" width="460" height="18" rx="9" fill="#131D33" stroke="#233554" stroke-width="1" />
 
         <!-- Bar Fill with Animation -->
-        <rect x="180" y="5" width="97" height="18" rx="9" fill="url(#grad-lang-1)">
-          <animate attributeName="width" from="0" to="97" dur="1.2s" begin="0.18s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
+        <rect x="180" y="5" width="92" height="18" rx="9" fill="url(#grad-lang-1)">
+          <animate attributeName="width" from="0" to="92" dur="1.2s" begin="0.18s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
         </rect>
 
         <!-- Shimmer Highlight Effect -->
-        <rect x="180" y="5" width="97" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
+        <rect x="180" y="5" width="92" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
 
         <!-- Percentage Badge -->
         <g transform="translate(658, 4)">
           <rect width="64" height="20" rx="6" fill="#131D33" stroke="#E34F26" stroke-width="1" stroke-opacity="0.6" />
-          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">21%</text>
+          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">20%</text>
         </g>
       </g>
-      <!-- Row 3: CSS -->
+      <!-- Row 3: Blade -->
       <g transform="translate(30, 167)" class="row-item">
-        <!-- Glowing Dot -->
-        <circle cx="10" cy="14" r="7" fill="#1572B6" fill-opacity="0.25" />
-        <circle cx="10" cy="14" r="4.5" fill="#1572B6" />
-
-        <!-- Language Name -->
-        <text x="30" y="19" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">CSS</text>
-
-        <!-- Bar Track -->
-        <rect x="180" y="5" width="460" height="18" rx="9" fill="#131D33" stroke="#233554" stroke-width="1" />
-
-        <!-- Bar Fill with Animation -->
-        <rect x="180" y="5" width="55" height="18" rx="9" fill="url(#grad-lang-2)">
-          <animate attributeName="width" from="0" to="55" dur="1.2s" begin="0.26s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
-        </rect>
-
-        <!-- Shimmer Highlight Effect -->
-        <rect x="180" y="5" width="55" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
-
-        <!-- Percentage Badge -->
-        <g transform="translate(658, 4)">
-          <rect width="64" height="20" rx="6" fill="#131D33" stroke="#1572B6" stroke-width="1" stroke-opacity="0.6" />
-          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">12%</text>
-        </g>
-      </g>
-      <!-- Row 4: Blade -->
-      <g transform="translate(30, 213)" class="row-item">
         <!-- Glowing Dot -->
         <circle cx="10" cy="14" r="7" fill="#FF2D20" fill-opacity="0.25" />
         <circle cx="10" cy="14" r="4.5" fill="#FF2D20" />
@@ -169,17 +143,43 @@
         <rect x="180" y="5" width="460" height="18" rx="9" fill="#131D33" stroke="#233554" stroke-width="1" />
 
         <!-- Bar Fill with Animation -->
-        <rect x="180" y="5" width="51" height="18" rx="9" fill="url(#grad-lang-3)">
-          <animate attributeName="width" from="0" to="51" dur="1.2s" begin="0.34s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
+        <rect x="180" y="5" width="60" height="18" rx="9" fill="url(#grad-lang-2)">
+          <animate attributeName="width" from="0" to="60" dur="1.2s" begin="0.26s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
         </rect>
 
         <!-- Shimmer Highlight Effect -->
-        <rect x="180" y="5" width="51" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
+        <rect x="180" y="5" width="60" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
 
         <!-- Percentage Badge -->
         <g transform="translate(658, 4)">
           <rect width="64" height="20" rx="6" fill="#131D33" stroke="#FF2D20" stroke-width="1" stroke-opacity="0.6" />
-          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">11%</text>
+          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">13%</text>
+        </g>
+      </g>
+      <!-- Row 4: CSS -->
+      <g transform="translate(30, 213)" class="row-item">
+        <!-- Glowing Dot -->
+        <circle cx="10" cy="14" r="7" fill="#1572B6" fill-opacity="0.25" />
+        <circle cx="10" cy="14" r="4.5" fill="#1572B6" />
+
+        <!-- Language Name -->
+        <text x="30" y="19" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">CSS</text>
+
+        <!-- Bar Track -->
+        <rect x="180" y="5" width="460" height="18" rx="9" fill="#131D33" stroke="#233554" stroke-width="1" />
+
+        <!-- Bar Fill with Animation -->
+        <rect x="180" y="5" width="55" height="18" rx="9" fill="url(#grad-lang-3)">
+          <animate attributeName="width" from="0" to="55" dur="1.2s" begin="0.34s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
+        </rect>
+
+        <!-- Shimmer Highlight Effect -->
+        <rect x="180" y="5" width="55" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
+
+        <!-- Percentage Badge -->
+        <g transform="translate(658, 4)">
+          <rect width="64" height="20" rx="6" fill="#131D33" stroke="#1572B6" stroke-width="1" stroke-opacity="0.6" />
+          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">12%</text>
         </g>
       </g>
       <!-- Row 5: PHP -->
@@ -195,17 +195,17 @@
         <rect x="180" y="5" width="460" height="18" rx="9" fill="#131D33" stroke="#233554" stroke-width="1" />
 
         <!-- Bar Fill with Animation -->
-        <rect x="180" y="5" width="37" height="18" rx="9" fill="url(#grad-lang-4)">
-          <animate attributeName="width" from="0" to="37" dur="1.2s" begin="0.42s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
+        <rect x="180" y="5" width="46" height="18" rx="9" fill="url(#grad-lang-4)">
+          <animate attributeName="width" from="0" to="46" dur="1.2s" begin="0.42s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
         </rect>
 
         <!-- Shimmer Highlight Effect -->
-        <rect x="180" y="5" width="37" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
+        <rect x="180" y="5" width="46" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
 
         <!-- Percentage Badge -->
         <g transform="translate(658, 4)">
           <rect width="64" height="20" rx="6" fill="#131D33" stroke="#777BB4" stroke-width="1" stroke-opacity="0.6" />
-          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">8%</text>
+          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">10%</text>
         </g>
       </g>
       <!-- Row 6: Dart -->
@@ -221,17 +221,17 @@
         <rect x="180" y="5" width="460" height="18" rx="9" fill="#131D33" stroke="#233554" stroke-width="1" />
 
         <!-- Bar Fill with Animation -->
-        <rect x="180" y="5" width="37" height="18" rx="9" fill="url(#grad-lang-5)">
-          <animate attributeName="width" from="0" to="37" dur="1.2s" begin="0.50s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
+        <rect x="180" y="5" width="32" height="18" rx="9" fill="url(#grad-lang-5)">
+          <animate attributeName="width" from="0" to="32" dur="1.2s" begin="0.50s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" />
         </rect>
 
         <!-- Shimmer Highlight Effect -->
-        <rect x="180" y="5" width="37" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
+        <rect x="180" y="5" width="32" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.15" />
 
         <!-- Percentage Badge -->
         <g transform="translate(658, 4)">
           <rect width="64" height="20" rx="6" fill="#131D33" stroke="#00B4AB" stroke-width="1" stroke-opacity="0.6" />
-          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">8%</text>
+          <text x="32" y="14" fill="#38BDF8" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="middle">7%</text>
         </g>
       </g>
       <!-- Row 7: Python -->
@@ -288,5 +288,5 @@
       </g>
 
   <!-- Footer Info -->
-  <text x="770" y="469" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" text-anchor="end">Terakhir diperbarui: 2026-11-09 • Diupdate setiap hari via GitHub Actions</text>
+  <text x="770" y="469" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" text-anchor="end">Terakhir diperbarui: 2026-11-10 • Diupdate setiap hari via GitHub Actions</text>
 </svg>
