@@ -89,7 +89,7 @@ https://davidtimoteus.github.io/Portofolioku/
 
 | Bahasa / Teknologi | Indikator Progress | Persentase |
 |---|:---:|:---:|
-| **JavaScript** | ![](https://progress-bar.xyz/29/?title=&width=220&color=F7DF1E&suffix=%25) | `29%` |
+| **JavaScript** | ![](https://progress-bar.xyz/31/?title=&width=220&color=F7DF1E&suffix=%25) | `31%` |
 | **HTML** | ![](https://progress-bar.xyz/17/?title=&width=220&color=E34F26&suffix=%25) | `17%` |
 | **CSS** | ![](https://progress-bar.xyz/12/?title=&width=220&color=1572B6&suffix=%25) | `12%` |
 | **Blade** | ![](https://progress-bar.xyz/11/?title=&width=220&color=FF2D20&suffix=%25) | `11%` |
@@ -98,7 +98,7 @@ https://davidtimoteus.github.io/Portofolioku/
 | **Python** | ![](https://progress-bar.xyz/7/?title=&width=220&color=3776AB&suffix=%25) | `7%` |
 | **Dart** | ![](https://progress-bar.xyz/6/?title=&width=220&color=00B4AB&suffix=%25) | `6%` |
 
-*Terakhir diperbarui otomatis: 2026-11-13 — dihitung dari seluruh repository publik.*
+*Terakhir diperbarui otomatis: 2026-11-14 — dihitung dari seluruh repository publik.*
 
   </details>
 </div>
