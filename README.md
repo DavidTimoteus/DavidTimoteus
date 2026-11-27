@@ -93,12 +93,12 @@ https://davidtimoteus.github.io/Portofolioku/
 | **HTML** | ![](https://progress-bar.xyz/16/?title=&width=220&color=E34F26&suffix=%25) | `16%` |
 | **CSS** | ![](https://progress-bar.xyz/11/?title=&width=220&color=1572B6&suffix=%25) | `11%` |
 | **Blade** | ![](https://progress-bar.xyz/10/?title=&width=220&color=FF2D20&suffix=%25) | `10%` |
-| **Python** | ![](https://progress-bar.xyz/8/?title=&width=220&color=3776AB&suffix=%25) | `8%` |
-| **PHP** | ![](https://progress-bar.xyz/8/?title=&width=220&color=777BB4&suffix=%25) | `8%` |
+| **Python** | ![](https://progress-bar.xyz/9/?title=&width=220&color=3776AB&suffix=%25) | `9%` |
+| **PHP** | ![](https://progress-bar.xyz/7/?title=&width=220&color=777BB4&suffix=%25) | `7%` |
 | **TypeScript** | ![](https://progress-bar.xyz/7/?title=&width=220&color=3178C6&suffix=%25) | `7%` |
-| **Dart** | ![](https://progress-bar.xyz/6/?title=&width=220&color=00B4AB&suffix=%25) | `6%` |
+| **Dart** | ![](https://progress-bar.xyz/5/?title=&width=220&color=00B4AB&suffix=%25) | `5%` |
 
-*Terakhir diperbarui otomatis: 2026-11-26 — dihitung dari seluruh repository publik.*
+*Terakhir diperbarui otomatis: 2026-11-27 — dihitung dari seluruh repository publik.*
 
   </details>
 </div>
